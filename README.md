@@ -1,8 +1,8 @@
 ### ✨ Olá, estou iniciando meus estudos como pode ver nos dados abaixo:
 <div align="center">
   <a href="https://github.com/Orleth">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Orleth&show_icons=true&bg_color=bddfff&border_color=7fdbca&title_color=2f97c1&icon_color=2f97c1&text_color=a277ff&include_all_commits=true&count_private=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orleth&layout=compact&langs_count=7&bg_color=bddfff&border_color=7fdbca&title_color=2f97c1&icon_color=2f97c1&text_color=a277ff"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Orleth&show_icons=true&bg_color=bddfff&border_color=7fdbca&title_color=2f97c1&icon_color=2f97c1&text_color=a277ff&include_all_commits=true&count_private=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orleth&layout=compact&langs_count=7&bg_color=bddfff&border_color=7fdbca&title_color=2f97c1&icon_color=2f97c1&text_color=a277ff"/>
    <!-- Tema NightOwl com fundo Cobalt que customizei e gostei muito também.
  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Orleth&show_icons=true&bg_color=193549&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&include_all_commits=true&count_private=true"/> 
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orleth&layout=compact&langs_count=7&bg_color=193549&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca"/> -->
