@@ -16,6 +16,10 @@
  
 <div> 
   <a href="https://br.linkedin.com/in/orlethnunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 🎈
+  
+  ##
+  <a href="https://www.youtube.com/watch?v=TsaLQAetPLU" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  ReadME feito com base no vídeo da Rafaella Ballerini.
  
   ![Snake animation](https://github.com/Orleth/Orleth/blob/output/github-contribution-grid-snake.svg)
  
